@@ -111,3 +111,148 @@ https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8
 #EXTINF:-1 tvg-id="",Хөгжим (720p)
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
+#EXTINF:50,CCTV 10 (China)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+#EXTINF:50,CCTV 14 (China)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/CCTV-14/HLSv3-FTA/CCTV-14.m3u8
+#EXTINF:50,Lotus Macau HD (China)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:50,Discovery Asia (Asia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+#EXTINF:50,NMTV Mongolia (China)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg",Cartoon Network (Asia)
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network Philippines"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001178/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="Cinemax Asia",Cinemax Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="HBO Asia",HBO Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="HBOFAM",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6610/001/2/ch00000090990000001246/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="HBOH",HBOH
+http://103.66.62.83:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="HBO HD",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+#EXTINF:-1 tvg-id="HBO Family HD",HBO Family HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+#EXTINF:-1 tvg-id="Cinemax HD",Cinemax HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+#EXTINF:-1 tvg-id="HBO Signature HD",HBO Signature HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+#EXTINF:-1 tvg-id="HBO Hits HD",HBO Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+#EXTINF:50,Bloomberg (USA)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
+#EXTINF:50,Cartoonito (Europe)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:50,Muzika Pervogo (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Muzika/HLSv3-FTA/Muzika.m3u8
+#EXTINF:50,First Channel
+#EXTVLCOPT:network-caching=1000
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:50,Vremya (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:50,Telekafe (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+#EXTINF:50,Poehali (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Poehali/HLSv3-FTA/Poehali.m3u8
+#EXTINF:50,Pobeda (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8
+#EXTINF:50,Bober (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Bober/HLSv3-FTA/Bober.m3u8
+#EXTINF:50,Karusel International (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:50,Match Planeta (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
+#EXTINF:50,TNT4 International (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:50,Bomb TNT
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:50,Mir 24 (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
+#EXTINF:50,NTV.RU
+#EXTVLCOPT:network-caching=1000
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:50,"RU" 1
+#EXTVLCOPT:network-caching=1000
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:50,"RU" 24
+#EXTVLCOPT:network-caching=1000
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:50,"RU" K
+#EXTVLCOPT:network-caching=1000
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:50,"RU" Asia
+#EXTVLCOPT:network-caching=1000
+https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+#EXTINF:50,"RU" 24 INT
+#EXTVLCOPT:network-caching=1000
+https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
+#EXTINF:50,REN International (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:50,Peretz International (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:50,STS International (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:50,Pyatnitsa International (Russia)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+#EXTINF:50,Arirang HD (South Korea)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Arirang/HLSv3-FTA/Arirang.m3u8
+#EXTINF:50,KBS Korea (South Korea)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/KBS_World_24/HLSv3-FTA/KBS_World_24.m3u8
+#EXTINF:50,KBS World HD (South Korea)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/KBSWorld/HLSv3-FTA/KBSWorld.m3u8
+#EXTINF:50,YTN World (South Korea)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/WTN_World/HLSv3-FTA/WTN_World.m3u8
+#EXTINF:50,NHK World (Japan)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
+#EXTINF:50,NHK World Premium (Japan)
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
